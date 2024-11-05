@@ -1,0 +1,38 @@
+.MenuCabecera{
+    background-color: #BE1622 ;
+    width: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{   
+ background-color: #0f8af5;
+ width: 100%;
+height: 120px;
+}
+.cajacolumnas{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+}
+.columnas{
+    flex: 1;
+    border: 1px;
+    text-align: center;
+}
+.ColorVerde{
+    background-color: rgb(15, 116, 12);
+}
+.ColorNaranja{
+    background-color: orange;
+}
+.ColorEsmeralda{
+    background-color: aquamarine;
+}
+.ramdom{
+    background-color: blue;
+    width: 100%;
+    height: 120px;
+}
