@@ -49,6 +49,8 @@ background-position-y: 20%;
 .MenuSuperior li{
     display: inline;
     padding: 5px;
+}
+.borderderecho{
     border-right: solid 2px black;
 }
 .MenuSuperior{
