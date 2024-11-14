@@ -50,7 +50,7 @@ background-position-y: 20%;
     display: inline;
     padding: 5px;
 }
-.borderderecho{
+.borderderecho li{
     border-right: solid 2px black;
 }
 .MenuSuperior{
